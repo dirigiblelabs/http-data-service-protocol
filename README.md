@@ -1,4 +1,4 @@
-# HTTP DataService Protocol
+# HTTP DataService Protocol 1.0
 The HTTP DataService protocol defines a mapping schema between the HTTP protocol and operations on data records.
 
 ## HTTP Resources and Data Records
